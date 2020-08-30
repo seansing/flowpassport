@@ -34,12 +34,12 @@ or
 1. The FlowPassport Admin first deploys the smart contract, which contains two resources: Passport and Admin. 
     - Passport resource contains the informations for a citizens passport and will be issues to a citizen once created.
         For this PoC, a passport contains the following information of a citizen: 
-        -Name : String
-        -Date of Birth : String
-        -Gender : String
-        -Citizenship : String
-        -Visa : { String : bool } 
-        -Travel Log : [ String ] 
+        - Name : String
+        - Date of Birth : String
+        - Gender : String
+        - Citizenship : String
+        - Visa : { String : bool } 
+        - Travel Log : [ String ] 
     - Admin resource allows for authorized admins to utilize its Admin resource to create passports.
 
 *Transactions:*
