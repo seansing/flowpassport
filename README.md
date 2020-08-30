@@ -12,11 +12,11 @@ This a proof of concept (PoC) showcases how the Flow resource can be use
 
 ## Presentations
 
--Youtube on product slides:
+- YouTube video on product presentation:
 
--Youtube on FlowPassport Demo on Flow Playground:
+- YouTube video on FlowPassport Demo on the Playground:
 
--Google Slides presentation
+- Google Slides presentation: 
 
 ## Testing FlowPassport
 
