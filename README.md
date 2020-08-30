@@ -48,8 +48,9 @@ or follow the workflow below.
 
 3. The Admin updates the Visa status for the citizen's passport via `3_update_visa.cdc` transaction.
 
-3a. The citizen tries transaction `2_citizen_travels.cdc` again and gets a successful entry to the country. 
+4. The citizen tries transaction `2_citizen_travels.cdc` again and gets a successful entry to the country. 
 
-4. An external admin can utilize the created capability to call the createPassport function using the `4_use_admin_capability.cdc` transaction.
+5. An external admin can utilize the created capability to call the createPassport function using the `4_use_admin_capability.cdc` transaction.
 
+### by Sean Sing for Flow Open World Builders (OWB) program
 
