@@ -41,4 +41,3 @@ Transactions:
 Future additional features to add to the passport: 
 -Visa expiry date (automatic updates to visa status)
 
-*/
