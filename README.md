@@ -22,10 +22,7 @@ This a proof of concept (PoC) showcases how the Flow resource can be use
 
 Visit the contract's Flow Playground here: https://play.onflow.org/3ad97f1c-87af-4da6-a561-0bbbfa3f22b4
 
-or
-
-1. Deploy the smart contract in using the flowpassport.cdc file.
-2. Run transactions 1_ through 4_ based on the workflow below: 
+or follow the workflow below. 
 
 ## Workflow 
 
