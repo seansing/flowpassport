@@ -52,5 +52,3 @@ or follow the workflow below.
 
 5. An external admin can utilize the created capability to call the createPassport function using the `4_use_admin_capability.cdc` transaction.
 
-### by Sean Sing for Flow Open World Builders (OWB) program
-
