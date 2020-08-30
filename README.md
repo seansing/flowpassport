@@ -12,7 +12,7 @@ It will showcase how the Flow resource can be used by an authorised membe
 
 Visit the contract's Flow Playground here: https://play.onflow.org/3ad97f1c-87af-4da6-a561-0bbbfa3f22b4
 
-Deployment:
+Deployment (flowpassport.cdc):
 
 1. The FlowPassport Association admin first deploys the smart contract, which contains two resources: Passport and Admin. 
     - Passport resource contains the informations for a citizens passport and will be issues to a citizen once created.
@@ -25,7 +25,7 @@ Deployment:
         -Travel Log : [ String ] 
     - Admin resource allows for authorized admins to utilize its Admin resource to create passports (eg. each govermental body)  
 
-Transactions:
+Transactions (respective number_cdc files):
 
 1. The FlowPassport Admin issues the new passport to the respective citizen using the 1_create_and_issue_passport.cdc transaction.
 
