@@ -50,7 +50,7 @@ or follow the workflow below.
 
 5. An external admin can utilize the created capability to call the createPassport function using the `4_use_admin_capability.cdc` transaction.
 
-#Limitations and future improvements
+## Limitations and future improvements
 
 - Visas current do not have expiry dates. Visas should automatically be revoked by the smart contract once expired.
 - Current passport function required multiple signatures which can be cumbersome. Potentially have smart contract carry out more pre-conditions and checks to automate processes. 
