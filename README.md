@@ -4,7 +4,7 @@
 
 FlowPassport is a smart contract written in Cadence for the Flow blockchain.
 
-FlowPassport stemmed from an idea that every governmental body should come together and form an association dedicated to digitalizing passports and cross country travel documentation and uniting them on a blockchain. 
+FlowPassport stemmed from an idea that every governmental body should come together and form an association dedicated to digitalizing passports and cross country travel documentation. The two main problems it solves are removing the need for physical passports and to unify the world's travel documentation on a common blockchain network for ease of verification and travel processes. 
 
 The FlowPassport smart contract's goal is to operate as a global digital passport smart contract on the Flow blockchain and carry out automated tasks like creating and issuing passports to new applicants and updating Visa statuses and travel logs as citizens depart and enter countries around the world.
 
@@ -50,3 +50,7 @@ or follow the workflow below.
 
 5. An external admin can utilize the created capability to call the createPassport function using the `4_use_admin_capability.cdc` transaction.
 
+#Limitations and future improvements
+
+- Visas current do not have expiry dates. Visas should automatically be revoked by the smart contract once expired.
+- Current passport function required multiple signatures which can be cumbersome. Potentially have smart contract carry out more pre-conditions and checks to automate processes. 
