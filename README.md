@@ -12,11 +12,9 @@ This proof of concept (PoC) showcases how the Flow resource can be used b
 
 ## Presentations
 
-- YouTube video on product presentation:
+- YouTube video presentation: https://youtu.be/7wM7FvY9qN4
 
-- YouTube video on FlowPassport Demo on the Playground:
-
-- Google Slides presentation: 
+- Google Slides presentation: https://docs.google.com/presentation/d/e/2PACX-1vRtSJ4wENRmPfS503BxoAOkH2gqQwC5dM1I9NzeGBODt1hPSpYQ25djbhfcVmHwZeeNJpT_T6zDw2nC/pub?start=false&loop=false&delayms=3000&slide=id.g935c3bbc57_0_10
 
 ## Testing FlowPassport
 
